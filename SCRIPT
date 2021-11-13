@@ -58,7 +58,7 @@ local ImageButton = Instance.new("ImageButton")
 --Properties:
 
 InsertedObjects.Name = "InsertedObjects"
-InsertedObjects.Parent = game.CoreGUI
+InsertedObjects.Parent = game.CoreGui
 InsertedObjects.ResetOnSpawn = false
 
 ImageLabel.Parent = InsertedObjects
